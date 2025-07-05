@@ -34,6 +34,21 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🌐 Social Media App – MERN Stack
+
+A modern, full-stack social platform with:
+- User authentication
+- Real-time messaging (Socket.io)
+- Clean UI with responsive design
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel)](https://your-live-demo-link.com)
+[![GitHub Repo](https://img.shields.io/badge/Code-Repository-blue?style=flat-square&logo=github)](https://github.com/yourusername/social-media-app)
+
+<img src="assets/socialapp-demo.gif" width="100%" alt="Social App Demo" />
+
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -72,4 +87,4 @@
   <img src="https://visitcount.itsvg.in/api?id=hc017&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </p>
 
-<!-- Made with ❤️ by Harshal Chavan -->
+Made with ❤️ by Harshal Chavan 
