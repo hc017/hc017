@@ -9,12 +9,12 @@
 
 ## 🚀 About Me
 
-- 🔨 Currently building a **Social Media App** using the MERN Stack  
-- 👯 Looking to collaborate on **open-source** and **real-time full-stack projects**
+- 🔨 Currently building a **Self AI** & Researching on **Green Energy** using the AI, Blockchain, Python, JAVA Core
+- 👯 Looking to collaborate on **open-source** and **real-time AI based - full-stack projects**
 - 🤝 Seeking help with **scalable backend architecture** and **microservices**
-- 🌱 Learning **TypeScript**, **WebSockets**, and **Kubernetes**
+- 🌱 Learning **Azure AI Foundry**, **Blockchain**, and **AI-Ops**
 - 💬 Ask me about:  
-  `React`, `Node.js`, `MongoDB`, `Selenium`, `Playwright`, `DevOps`, `CI/CD`
+  `MERN Stack`, `MEAN Stack`, ``, `Azure`, `Software Testing`, `DevOps`, `AI-ML`
 - ⚡ Fun Fact:  
   I once recreated Instagram's UI pixel-perfect — just for fun and practice!
 
