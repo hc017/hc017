@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+MERN+Social+Media+App;Lifelong+Learner;React%20|%20Node.js%20|%20MongoDB;Automation%20Testing%20with%20Playwright%20%26%20Selenium;Let%27s+build+something+great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Self+AI;Researching+Green+Energy;Azure+AI+Foundry%20|%20Core+JAVA +Python+AI%20|%20Blockchain;Automation%20Testing%20with%20Playwright%20%26%20Selenium;Let%27s+build+something+great!" alt="Typing SVG" />
 </p>
 
 ---
