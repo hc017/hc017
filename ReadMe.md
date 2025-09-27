@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔨 Currently building a **Self AI** & Researching on **Green Energy** using the AI, Blockchain, Python, JAVA Core
+- 🔨 Currently building a **Self AI** & Researching on **Green Energy** using the AI, Blockchain, Python, Core JAVA
 - 👯 Looking to collaborate on **open-source** and **real-time AI based - full-stack projects**
 - 🤝 Seeking help with **scalable backend architecture** and **microservices**
 - 🌱 Learning **Azure AI Foundry**, **Blockchain**, and **AI-Ops**
